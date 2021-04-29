@@ -17,14 +17,16 @@ int main(void)
 		printf("============================\n");
 		printf("    계산문을 입력하세요.\n");
 		printf("       Ex) 1 + 1  \n");
-		printf("연산문 미 입력시 프로그램 종료.\n");
+		printf("  0+0 입력시 프로그램 종료.\n");
 		printf("============================\n");
 		printf("입력 : ");
 		scanf("%d%c%d", &num1, &operator, &num2);
 
-		system("cls");
-
-		//printf("%d | %c | %d\n", num1, operator, num2);
+		if (operator == '+' && num1 == 0 && num2 == 0)
+		{
+			printf("프로그램 종료.");
+			return;
+		}
 
 		printf("========================================================\n");
 		printf("[결과] | ");
@@ -46,8 +48,6 @@ int main(void)
 			else 
 				printf("%d / %d = 몫 : %d, 나머지 : %d 입니다.\n", num1, num2, num1 / num2, num1 % num2);
 			break;
-		default: 
-			return;
 		}
 		printf("========================================================\n");
 		Sleep(3000);

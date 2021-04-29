@@ -30,5 +30,8 @@
     <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC%28define%29\define버전\6-5\EX6-5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="EX6-6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

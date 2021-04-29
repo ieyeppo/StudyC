@@ -15,34 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Chart5\Chart5-Calculator.c">
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC%28define%29\define버전\7-1\EX7-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\Chart3\Chart3-Test1.c">
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC%28define%29\define버전\7-2\EX7-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\Chart3\Chart3-Test2.c">
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC%28define%29\define버전\7-3\EX7-3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\SevenHighLow\SevenHighLow.c">
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC%28define%29\define버전\7-4\EX7-4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Chart5-Carculator_Version2.c">
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC%28define%29\define버전\7-5\EX7-5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Chart6-Star1.c">
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC%28define%29\define버전\7-6\EX7-6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Chart6-Star2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Chart6-gugudan1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Chart6-gugudan2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Chart7-Calculator_Version3.c">
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC%28define%29\define버전\7-7\EX7-7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

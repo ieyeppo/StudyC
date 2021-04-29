@@ -8,10 +8,6 @@ void cardMaker(int cardNum)
 	int img = cardNum / 13;
 	int num = cardNum % 13;
 
-	//printf("cardNum : %d\n", cardNum);
-	//printf("img : %d\n", img);
-	//printf("num : %d\n", num);
-
 	switch (img) 
 	{
 		case 0: printf("◆"); break;
@@ -71,9 +67,7 @@ int main(void) {
 			break;
 		}
 
-		cardMaker(card[rand() % 52]);
-
-		printf("<??>\n");
+		printf("< SEVEN HIGH LOW >\n");
 		printf("사용한 카드 갯수 : %d\n", turn);
 		printf("치트 : ");
 		cardMaker(card[turn]);
@@ -89,7 +83,7 @@ int main(void) {
 			continue;
 		}
 
-		printf("1.LOW | 2. HIGH | 3. SEVEN\n");
+		printf("1.LOW | 2. HIGH | 3. SEVEN | 4. 종료\n");
 		printf("입력 : ");
 		scanf("%d", &input);
 
@@ -115,6 +109,10 @@ int main(void) {
 			else
 				rightAnswer = 0;
 			break;
+		case 4 :
+			printf("프로그램 종료.");
+			Sleep(2000);
+			return;
 		default:
 			printf("[선택 입력 오류]\n");
 			printf("1-3번 중에서 선택해주세요!\n");
