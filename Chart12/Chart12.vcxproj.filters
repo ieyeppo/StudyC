@@ -15,55 +15,29 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Chart5\Chart5-Calculator.c">
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-1\예제12-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\Chart3\Chart3-Test1.c">
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-2\예제12-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\Chart3\Chart3-Test2.c">
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-3\예제12-3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\SevenHighLow\SevenHighLow.c">
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-4\예제12-4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Chart5-Carculator_Version2.c">
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-5\예제12-5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Chart6-Star1.c">
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-6\예제12-6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Chart6-Star2.c">
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-7\예제12-7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Chart6-gugudan1.c">
+    <ClCompile Include="test.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Chart6-gugudan2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Chart7-Calculator_Version3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="TileMap.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ReverseOrder.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Wallnambbong.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointerExam.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Chart12\Chart12-Lotto.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="Lotto_Result.txt">
-      <Filter>소스 파일</Filter>
-    </Text>
   </ItemGroup>
 </Project>
