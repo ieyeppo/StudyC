@@ -139,6 +139,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-10\예제12-10.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-11\예제12-11.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-12\예제12-12.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-13\예제12-13.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-1\예제12-1.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -158,6 +170,12 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-7\예제12-7.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-8\예제12-8.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-9\예제12-9.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="test.c">

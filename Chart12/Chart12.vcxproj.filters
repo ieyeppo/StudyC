@@ -39,5 +39,23 @@
     <ClCompile Include="test.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-8\예제12-8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-9\예제12-9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-10\예제12-10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-11\예제12-11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-12\예제12-12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PKNU\Desktop\책\혼자 공부하는 C언어\C_source_without_exe\studyC(define)\define버전\12-13\예제12-13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

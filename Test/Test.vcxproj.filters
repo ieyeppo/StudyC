@@ -57,7 +57,16 @@
     <ClCompile Include="pointerExam.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\Chart12\Chart12-Lotto.c">
+    <ClCompile Include="strcopy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Chart12\Chart12-EngBigSmallChange.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chart12-Lotto.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chart14-Palindrome.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
