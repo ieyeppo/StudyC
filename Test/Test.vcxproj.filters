@@ -78,6 +78,12 @@
     <ClCompile Include="Chart15-Calculator_Version3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Chart17-EmployeeInfo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chart17-Employee_Version2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Lotto_Result.txt">

@@ -15,22 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="EX16-1.c">
+    <ClCompile Include="EX18-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="EX16-2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="EX16-3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="EX16-4.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="EX16-5.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="EX16-6.c">
+    <ClCompile Include="EX18-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
