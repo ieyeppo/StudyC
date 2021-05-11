@@ -84,6 +84,9 @@
     <ClCompile Include="Chart17-Employee_Version2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Chart18-Login.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Lotto_Result.txt">
